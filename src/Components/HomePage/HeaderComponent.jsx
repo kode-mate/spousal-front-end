@@ -14,7 +14,7 @@ import {
 function HeaderComponent() {
     return (
       <div>
-        <Navbar color='light' light expand="md">
+        <Navbar expand="md">
           <NavbarBrand href="/">SPOUSAL</NavbarBrand>
             <Nav className="ml-auto tabs" navbar>
               <div className='selector'></div>

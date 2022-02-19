@@ -1,9 +1,12 @@
-import logo from './logo.svg';
 import HeaderComponent from './Components/HomePage/HeaderComponent';
+import FooterComponent from './Components/HomePage/FooterComponent'
 
 function App() {
   return (
-    <HeaderComponent />
+    <>
+      <HeaderComponent />
+      <FooterComponent />
+    </>
   );
 }
 

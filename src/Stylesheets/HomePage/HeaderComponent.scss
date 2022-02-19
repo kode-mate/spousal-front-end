@@ -1,5 +1,10 @@
-.nav-link {
-  cursor: pointer
+.navbar {
+  background-color: #dee2e6;
+  
+  .nav-link {
+    cursor: pointer;
+    color: black;
+  }
 }
 
 .tabs{
@@ -21,12 +26,12 @@
 }
 
 .nav-item {
-    text-align: center;
-    justify-content: center;
-    letter-spacing: 4px;
-    line-height: 10px;
-    margin-top: 5px;
-    z-index: 1;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 4px;
+  line-height: 10px;
+  margin-top: 5px;
+  z-index: 1;
 }
 
 .tabs .selector{
